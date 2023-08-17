@@ -27,6 +27,7 @@ function App() {
       // HTML 블락내에서 JavaScript 변수의 값을 불러올때 { } 를 사용함. 
       // 변수의 값을 출력시 , boolean, number, string, null, undefine 는 직접 변수 명으로 처리
       // 객체 나 배열인 경우 는 객체나 배열의 속성값을 출력 해야 한다. 
+        // 객체 : name.age  , 배열 : name[0]
       // HTML 에서는 onclick , JSX 에서는 onClick 으로 처리 , C 가 대문자 
 
     //<div className="App">
